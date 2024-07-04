@@ -1,2 +1,2 @@
 # DeepFake
-Deepfake Detection using Deep Learning
+Deepfake Detection using Deep Learning.
